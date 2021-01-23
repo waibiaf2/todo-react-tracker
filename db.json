@@ -1,0 +1,28 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Doctors Appointment",
+      "day": "23/January/2020",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Food Shooping",
+      "day": "15/August/2020",
+      "reminder": false
+    },
+    {
+      "text": "Read my bible",
+      "day": "23/01/2021",
+      "reminder": true,
+      "id": 4
+    },
+    {
+      "text": "Review and finalize my working patter",
+      "day": "25/01/2021",
+      "reminder": false,
+      "id": 5
+    }
+  ]
+}
